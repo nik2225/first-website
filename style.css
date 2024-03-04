@@ -12,12 +12,12 @@ html,body{
 }
 
 #cursor{
-    height: 20px;
-    width: 20px;
+    height: 10px;
+    width: 10px;
+    background-color: #8EC410;
+    padding: 2px;
+    border: 2px solid #8EC410;
     border-radius: 50%;
-    border-width: 10px;
-    border-style: solid;
-    border-color: #8EC410;
     position: fixed;
     z-index: 99;
 }
